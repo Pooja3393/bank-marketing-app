@@ -1,21 +1,17 @@
-###💰 Bank Marketing Prediction App
-#A simple Streamlit web app that predicts whether a customer will subscribe to a term deposit based on their demographic and campaign data.
+# 💰 Bank Marketing Prediction App
 
-##🔍 Features
-Built with Decision Tree Classifier
+A simple Streamlit web app to predict whether a customer will subscribe to a term deposit based on demographic and behavioral inputs using a Decision Tree Classifier.
 
-Input via sliders and dropdowns
+---
 
-Instant prediction: 🎯 Likely or 📉 Unlikely
+## 📊 Features
+- 🎯 Predicts customer subscription to term deposit
+- 🧠 Uses a trained Decision Tree Classifier
+- 📋 Interactive form with dropdowns and sliders
+- ⚡ Instant prediction results with user-friendly messages
 
-📦 Files
-app.py – Streamlit app
+---
 
-decision_tree_model.pkl – Trained ML model
 
-features.pkl – Model feature list
 
-requirements.txt – Dependencies
-🌐 Live App
-🔗 Try it on Streamlit->https://bank-marketing-app-mdkixmgbs6jjksqvavlmgr.streamlit.app/
 
