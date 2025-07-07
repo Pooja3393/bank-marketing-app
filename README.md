@@ -11,7 +11,8 @@ A simple Streamlit web app to predict whether a customer will subscribe to a ter
 - ⚡ Instant prediction results with user-friendly messages
 
 ---
-
+🌐 Live App
+🔗 https://bank-marketing-app-mdkixmgbs6jjksqvavlmgr.streamlit.app/
 
 
 
